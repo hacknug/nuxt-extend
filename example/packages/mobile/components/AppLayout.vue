@@ -2,7 +2,7 @@
   <main>
     <Nuxt />
     <footer>
-      <a href="#">Desktop Version</a>
+      <a class="text-red underline" href="#">Desktop Version</a>
     </footer>
   </main>
 </template>

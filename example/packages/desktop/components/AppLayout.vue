@@ -2,7 +2,7 @@
   <main>
     <Nuxt />
     <footer>
-      <a href="#">Mobile Version</a>
+      <a class="text-blue underline" href="#">Mobile Version</a>
     </footer>
   </main>
 </template>

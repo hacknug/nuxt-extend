@@ -6,10 +6,10 @@
   "scripts": {
     "dev:desktop": "yarn workspace @app/desktop dev",
     "dev:mobile": "yarn workspace @app/mobile dev",
-    "build:desktop": "yarn workspace @app/desktop dev",
-    "build:mobile": "yarn workspace @app/mobile dev"
+    "build:desktop": "yarn workspace @app/desktop generate",
+    "build:mobile": "yarn workspace @app/mobile generate"
   },
   "devDependencies": {
-    "nuxt": "^2.14.7"
+    "nuxt": "2.15.3"
   }
 }
